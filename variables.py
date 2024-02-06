@@ -2,7 +2,7 @@ school = "Emobilis" # string
 name = "Madul"
 age = 19 # int
 mean = 7.0 #float
-grade = "B" # char
+grade = "B" # character
 
 went_home = False # boolean for (yes/no)questions
 print("Hi, " + name)
