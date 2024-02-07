@@ -16,7 +16,7 @@ english = int(input("english: "))
 phy = int(input("phy: "))
 kis = int(input("kis: "))
 chem = int(input("chem: "))
-
+z
 total = math + english + phy + kis + chem
 
 print(total)
