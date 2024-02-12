@@ -1,3 +1,7 @@
+# variables are storage packages
+# data structures are 4 i.e list, sets, tuples, dictionaries
+# data types are string, int, float, character, boolean
+
 school = "Emobilis" # string
 name = "Madul"
 age = 19 # int
