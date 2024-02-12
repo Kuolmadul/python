@@ -3,7 +3,7 @@ def square(y):
     return y * y
 
 
-number = square(6)
+number = square(7)
 print(number)
 
 

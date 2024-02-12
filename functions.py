@@ -1,14 +1,14 @@
 #
 # def mit():
 #     print('this is an mit function')
-
+#
 #
 # def prof():
-#     print('Ezra is our professor')
+#     print('ezra is our professor')
 #
 #
 # prof()
-
+# math $ eng are parameters
 
 def add(math, eng):
     return math + eng
@@ -16,6 +16,7 @@ def add(math, eng):
 
 sum = add(5, 6)
 print(sum)
+
 
 
 
